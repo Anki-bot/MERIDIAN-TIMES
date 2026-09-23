@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "repomix": "1.18.1"
+  },
+  "_npx": {
+    "packages": [
+      "repomix"
+    ]
+  }
+}

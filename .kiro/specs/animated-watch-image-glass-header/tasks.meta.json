@@ -1,0 +1,96 @@
+{
+  "pbtResults": {
+    "1.4 Write the property test for source-and-derivative gate soundness": {
+      "status": "passed",
+      "lastRunTimestamp": 1788101684899
+    },
+    "3.4 Write the static-mode and whole-image property test": {
+      "status": "passed",
+      "lastRunTimestamp": 1788101691423
+    },
+    "3.3 Write the sole-responsive-hero property test": {
+      "status": "passed",
+      "lastRunTimestamp": 1788101688139
+    },
+    "4.3 Write the static-material source-safety property test": {
+      "status": "passed",
+      "lastRunTimestamp": 1788101701398
+    },
+    "4.2 Write the responsive source, focal, and cover-safe motion property test": {
+      "status": "passed",
+      "lastRunTimestamp": 1788101694544
+    },
+    "6.2 Write the graph and responsive-state preservation property test": {
+      "status": "passed",
+      "lastRunTimestamp": 1788101704626
+    }
+  },
+  "executionHistory": {
+    "1.1 Gate all implementation on the user-provided source asset": [
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006852332
+      },
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006865862
+      },
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006981284
+      }
+    ],
+    "1.2 Implement the blocking local asset verifier": [
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006852406
+      }
+    ],
+    "2. Checkpoint — verify the exact asset gate": [
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006852425
+      }
+    ],
+    "3.1 Create `WatchImageBackdrop`": [
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006852517
+      }
+    ],
+    "3.2 Replace only the landing-page canvas mount": [
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006852540
+      }
+    ],
+    "4.1 Apply one coordinated non-protected CSS change": [
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006852565
+      }
+    ],
+    "5. Checkpoint — verify hero and glass behavior": [
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006852588
+      }
+    ],
+    "8. Final checkpoint — validate the complete migration": [
+      {
+        "executionId": "616b58b3-c07a-4832-8def-d3c57d52cfbc",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788006852606
+      }
+    ]
+  }
+}

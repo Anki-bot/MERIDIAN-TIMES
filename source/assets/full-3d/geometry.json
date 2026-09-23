@@ -1,0 +1,12 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{ "nodes": [0] }],
+  "nodes": [{ "name": "upper-right-wheel", "mesh": 0 }],
+  "meshes": [{ "primitives": [{ "attributes": { "POSITION": 0 }, "indices": 1 }] }],
+  "provenance": {
+    "canonicalMasterSha256": "7480bd94014cf1c5219f9abdcd0206b6848e2d353ede4e276d6e9a1001f8c66b",
+    "measurements": ["caliper #101 12.5mm wheel diameter ±0.02mm", "microscope #102 tooth count 38"],
+    "licenses": ["CC-BY-4.0 demo geometry"]
+  }
+}

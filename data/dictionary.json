@@ -1,0 +1,4049 @@
+[
+  {
+    "id": "men",
+    "slug": "mens-watches",
+    "term": "Men's Watches",
+    "nodeLabel": "MEN",
+    "category": "Collection",
+    "kind": "collection",
+    "audiences": [
+      "men"
+    ],
+    "definition": "A curatorial lens for watches traditionally proportioned, styled, or marketed for men—without prescribing who may wear them.",
+    "history": "Pocket-watch movements migrated to the wrist in the early twentieth century, and practical military designs helped normalize the wristwatch for men. Modern collections now range from discreet dress pieces to expressive technical instruments.",
+    "signatures": [
+      "Broad case-size spectrum",
+      "Tool and dress references",
+      "Mechanical variety"
+    ],
+    "parentIds": [],
+    "relatedIds": [
+      "rolex",
+      "omega",
+      "audemars-piguet",
+      "chronograph"
+    ],
+    "keywords": [
+      "gentleman",
+      "menswear",
+      "sports watch",
+      "dress watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "women",
+    "slug": "womens-watches",
+    "term": "Women's Watches",
+    "nodeLabel": "WOMEN",
+    "category": "Collection",
+    "kind": "collection",
+    "audiences": [
+      "women"
+    ],
+    "definition": "A curatorial lens spanning jewelry-led, classically proportioned, and technically ambitious watches associated with women's collections.",
+    "history": "Decorative wristwatches appeared for women before the wristwatch became a universal daily object. Contemporary women's watchmaking combines gem-setting and design craft with the same mechanical complications found across haute horlogerie.",
+    "signatures": [
+      "Jewelry and mechanical craft",
+      "Varied proportions",
+      "Dress-to-sport versatility"
+    ],
+    "parentIds": [],
+    "relatedIds": [
+      "cartier",
+      "patek-philippe",
+      "hugo-boss",
+      "moonphase"
+    ],
+    "keywords": [
+      "ladies",
+      "jewelry watch",
+      "gem set",
+      "dress watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "audemars-piguet",
+    "slug": "audemars-piguet",
+    "term": "Audemars Piguet",
+    "nodeLabel": "AUDEMARS PIGUET",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "An independent Vallée de Joux manufacture known for high complications and the architectural language of the Royal Oak.",
+    "history": "Jules Louis Audemars and Edward Auguste Piguet established their workshop in 1875. The maison paired traditional complicated movements with a radical steel luxury-watch vocabulary that reshaped the category in the 1970s.",
+    "signatures": [
+      "Octagonal geometry",
+      "Visible hand finishing",
+      "Sporting high complications"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "skeleton-watch",
+      "chronograph",
+      "perpetual-calendar"
+    ],
+    "keywords": [
+      "royal oak",
+      "offshore",
+      "le brassus",
+      "tapisserie"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "armani-exchange",
+    "slug": "armani-exchange",
+    "term": "Armani Exchange",
+    "nodeLabel": "ARMANI EXCHANGE",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A contemporary fashion house extending its urban design language into accessible, trend-driven timepieces.",
+    "history": "Established as the youthful expression of Giorgio Armani, the label translated its streetwise aesthetic into watches that balance fashion and function.",
+    "signatures": [
+      "Urban minimalism",
+      "Bold dial graphics",
+      "Accessible fashion luxury"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "hugo-boss",
+      "diesel",
+      "burberry"
+    ],
+    "keywords": [
+      "armani",
+      "exchange",
+      "ax",
+      "fashion"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "bentley",
+    "slug": "bentley",
+    "term": "Bentley",
+    "nodeLabel": "BENTLEY",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A British luxury marque whose timepieces echo automotive craftsmanship and refined touring heritage.",
+    "history": "Drawing on Bentley Motors heritage, the watch collaborations translate grand touring elegance into horological form.",
+    "signatures": [
+      "Knurled bezel details",
+      "Touring inspiration",
+      "Refined British luxury"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "hublot",
+      "omega"
+    ],
+    "keywords": [
+      "bentley",
+      "touring",
+      "british",
+      "luxury"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "hugo-boss",
+    "slug": "hugo-boss",
+    "term": "Hugo Boss",
+    "nodeLabel": "HUGO BOSS",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A German fashion house whose watches combine sharp tailoring codes with modern, business-ready design.",
+    "history": "Hugo Boss expanded from menswear tailoring into accessories, bringing precise German design to accessible Swiss-made timepieces.",
+    "signatures": [
+      "Sharp tailoring",
+      "Business elegance",
+      "Modern minimalism"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "armani-exchange",
+      "burberry",
+      "diesel"
+    ],
+    "keywords": [
+      "boss",
+      "hugo",
+      "tailoring",
+      "business"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "burberry",
+    "slug": "burberry",
+    "term": "Burberry",
+    "nodeLabel": "BURBERRY",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A British heritage house whose watches reflect classic trench codes and check-pattern sophistication.",
+    "history": "Burberry translated its iconic outerwear heritage into timepieces that balance classic British style with modern runway influences.",
+    "signatures": [
+      "Check pattern details",
+      "Heritage trench codes",
+      "British sophistication"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "hugo-boss",
+      "armani-exchange"
+    ],
+    "keywords": [
+      "burberry",
+      "check",
+      "heritage",
+      "british"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "cartier",
+    "slug": "cartier",
+    "term": "Cartier",
+    "nodeLabel": "CARTIER",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Parisian maison that treats the watch as designed form, using distinctive silhouettes, Roman numerals, and jewelry craft.",
+    "history": "Founded in 1847, Cartier helped make the wristwatch a modern design object through early twentieth-century forms such as the Santos and Tank. Its watchmaking balances recognizable geometry with specialist métiers.",
+    "signatures": [
+      "Sculpted case silhouettes",
+      "Roman numeral dials",
+      "Blue cabochon detail"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "moonphase",
+      "skeleton-watch",
+      "hugo-boss"
+    ],
+    "keywords": [
+      "tank",
+      "santos",
+      "panthere",
+      "cabochon",
+      "paris"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "citizen",
+    "slug": "citizen",
+    "term": "Citizen",
+    "nodeLabel": "CITIZEN",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Citizen horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Citizen has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "citizen",
+      "citizen-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "calvin-klein",
+    "slug": "calvin-klein",
+    "term": "Calvin Klein",
+    "nodeLabel": "CALVIN KLEIN",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Calvin Klein horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Calvin Klein has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "calvin-klein",
+      "calvin klein",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "diesel",
+    "slug": "diesel",
+    "term": "Diesel",
+    "nodeLabel": "DIESEL",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "An Italian fashion brand known for bold, industrial-inspired watches with oversized presence.",
+    "history": "Diesel brought its denim and industrial fashion energy into watch design, creating statement timepieces with raw, utilitarian character.",
+    "signatures": [
+      "Oversized industrial cases",
+      "Bold dial architecture",
+      "Denim culture edge"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "armani-exchange",
+      "hugo-boss"
+    ],
+    "keywords": [
+      "diesel",
+      "industrial",
+      "oversized",
+      "bold"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "emporio-armani",
+    "slug": "emporio-armani",
+    "term": "Emporio Armani",
+    "nodeLabel": "EMPORIO ARMANI",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Emporio Armani horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Emporio Armani has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "emporio-armani",
+      "emporio armani",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "edifice",
+    "slug": "edifice",
+    "term": "Edifice",
+    "nodeLabel": "EDIFICE",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Edifice horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Edifice has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "edifice",
+      "edifice-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "fossil",
+    "slug": "fossil",
+    "term": "Fossil",
+    "nodeLabel": "FOSSIL",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Fossil horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Fossil has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "fossil",
+      "fossil-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "franck-muller",
+    "slug": "franck-muller",
+    "term": "Franck Muller",
+    "nodeLabel": "FRANCK MULLER",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Franck Muller horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Franck Muller has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "franck-muller",
+      "franck muller",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "g-shock",
+    "slug": "g-shock",
+    "term": "G-Shock",
+    "nodeLabel": "G-SHOCK",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing G-Shock horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, G-Shock has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "g-shock",
+      "g-shock-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "gucci",
+    "slug": "gucci",
+    "term": "Gucci",
+    "nodeLabel": "GUCCI",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Gucci horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Gucci has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "gucci",
+      "gucci-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "guess",
+    "slug": "guess",
+    "term": "Guess",
+    "nodeLabel": "GUESS",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Guess horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Guess has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "guess",
+      "guess-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "hublot",
+    "slug": "hublot",
+    "term": "Hublot",
+    "nodeLabel": "HUBLOT",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A contemporary Nyon manufacture defined by layered case architecture and the deliberate fusion of traditional precious metals with technical modern materials.",
+    "history": "Founded in 1980, Hublot introduced a gold watch on a natural-rubber strap and made material contrast central to its identity. Later openworked calibres and sculptural cases expanded that fusion concept.",
+    "signatures": [
+      "Porthole-inspired cases",
+      "Mixed-material construction",
+      "Openworked contemporary calibres"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "audemars-piguet",
+      "skeleton-watch",
+      "chronograph"
+    ],
+    "keywords": [
+      "big bang",
+      "classic fusion",
+      "nyon",
+      "unico",
+      "rubber strap"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "jacob-co",
+    "slug": "jacob-co",
+    "term": "Jacob & Co.",
+    "nodeLabel": "JACOB & CO.",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Jacob & Co. horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Jacob & Co. has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "jacob-co",
+      "jacob & co.",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "lacoste",
+    "slug": "lacoste",
+    "term": "Lacoste",
+    "nodeLabel": "LACOSTE",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Lacoste horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Lacoste has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "lacoste",
+      "lacoste-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "longines",
+    "slug": "longines",
+    "term": "Longines",
+    "nodeLabel": "LONGINES",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Longines horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Longines has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "longines",
+      "longines-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "maserati",
+    "slug": "maserati",
+    "term": "Maserati",
+    "nodeLabel": "MASERATI",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Maserati horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Maserati has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "maserati",
+      "maserati-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "michael-kors",
+    "slug": "michael-kors",
+    "term": "Michael Kors",
+    "nodeLabel": "MICHAEL KORS",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Michael Kors horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Michael Kors has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "michael-kors",
+      "michael kors",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "movado",
+    "slug": "movado",
+    "term": "Movado",
+    "nodeLabel": "MOVADO",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "An American-Swiss brand celebrated for its minimalist Museum Dial and modernist design purity.",
+    "history": "Movado rose to prominence with its iconic Museum Dial designed by Nathan George Horwitt, embodying Bauhaus-inspired minimalism.",
+    "signatures": [
+      "Museum Dial minimalism",
+      "Modernist purity",
+      "Swiss innovation"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "cartier",
+      "omega"
+    ],
+    "keywords": [
+      "movado",
+      "museum",
+      "minimalist",
+      "modernist"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "omega",
+    "slug": "omega",
+    "term": "Omega",
+    "nodeLabel": "OMEGA",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Swiss manufacture whose modern identity links precision timing, space exploration, diving instruments, and co-axial mechanics.",
+    "history": "Its roots reach to Louis Brandt's 1848 workshop. Industrialized calibre production, observatory precision, Olympic timing, and the Moonwatch story gave Omega an unusually broad technical and cultural footprint.",
+    "signatures": [
+      "Co-axial escapement",
+      "Master Chronometer testing",
+      "Instrument-led collections"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "chronograph",
+      "escapement",
+      "rolex"
+    ],
+    "keywords": [
+      "speedmaster",
+      "seamaster",
+      "constellation",
+      "moonwatch",
+      "co axial"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "orient",
+    "slug": "orient",
+    "term": "Orient",
+    "nodeLabel": "ORIENT",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Orient horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Orient has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "orient",
+      "orient-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "patek-philippe",
+    "slug": "patek-philippe",
+    "term": "Patek Philippe",
+    "nodeLabel": "PATEK PHILIPPE",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Geneva manufacture associated with refined finishing, restrained design, and a deep command of classical complications.",
+    "history": "Founded in 1839, the house developed from bespoke pocket watches into one of the central names in complicated wristwatch making. Its archives connect elegant time-only pieces with calendars, repeaters, and grand complications.",
+    "signatures": [
+      "Hand-finished calibres",
+      "Classical complications",
+      "Understated casework"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "perpetual-calendar",
+      "minute-repeater",
+      "armani-exchange"
+    ],
+    "keywords": [
+      "calatrava",
+      "nautilus",
+      "geneva",
+      "grand complication"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "rado",
+    "slug": "rado",
+    "term": "Rado",
+    "nodeLabel": "RADO",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Rado horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Rado has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "rado",
+      "rado-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "richard-mille",
+    "slug": "richard-mille",
+    "term": "Richard Mille",
+    "nodeLabel": "RICHARD MILLE",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Richard Mille horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Richard Mille has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "richard-mille",
+      "richard mille",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "rolex",
+    "slug": "rolex",
+    "term": "Rolex",
+    "nodeLabel": "ROLEX",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Swiss manufacture recognized for robust Oyster cases, automatic movements, and tightly evolved professional-watch archetypes.",
+    "history": "Established in London in 1905 and later based in Geneva, Rolex built its reputation around precision, water resistance, and self-winding wristwatches. Its design language advances through measured iteration rather than frequent reinvention.",
+    "signatures": [
+      "Oyster case architecture",
+      "Perpetual rotor",
+      "Professional dial clarity"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "automatic-movement",
+      "chronograph",
+      "omega"
+    ],
+    "keywords": [
+      "oyster",
+      "submariner",
+      "datejust",
+      "daytona",
+      "crown"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "seiko",
+    "slug": "seiko",
+    "term": "Seiko",
+    "nodeLabel": "SEIKO",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Seiko horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Seiko has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "seiko",
+      "seiko-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "sevenfriday",
+    "slug": "sevenfriday",
+    "term": "SevenFriday",
+    "nodeLabel": "SEVENFRIDAY",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing SevenFriday horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, SevenFriday has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "sevenfriday",
+      "sevenfriday-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "swarovski",
+    "slug": "swarovski",
+    "term": "Swarovski",
+    "nodeLabel": "SWAROVSKI",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Swarovski horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Swarovski has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "swarovski",
+      "swarovski-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tag-heuer",
+    "slug": "tag-heuer",
+    "term": "TAG Heuer",
+    "nodeLabel": "TAG HEUER",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Swiss maison closely associated with precision sports timing, dashboard instruments, and modern chronographs built around speed and clear elapsed-time reading.",
+    "history": "Edouard Heuer founded his workshop in 1860. Patents for oscillating pinions and dashboard timers established a technical foundation later amplified through motor-racing partnerships and iconic wrist chronographs.",
+    "signatures": [
+      "Motor-racing chronographs",
+      "High-contrast timing displays",
+      "Oscillating-pinion heritage"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "chronograph",
+      "automatic-movement",
+      "omega"
+    ],
+    "keywords": [
+      "carrera",
+      "monaco",
+      "autavia",
+      "motorsport",
+      "heuer"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tissot",
+    "slug": "tissot",
+    "term": "Tissot",
+    "nodeLabel": "TISSOT",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Tissot horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Tissot has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "tissot",
+      "tissot-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tommy-hilfiger",
+    "slug": "tommy-hilfiger",
+    "term": "Tommy Hilfiger",
+    "nodeLabel": "TOMMY HILFIGER",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Tommy Hilfiger horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Tommy Hilfiger has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "tommy-hilfiger",
+      "tommy hilfiger",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "vacheron-constantin",
+    "slug": "vacheron-constantin",
+    "term": "Vacheron Constantin",
+    "nodeLabel": "VACHERON CONSTANTIN",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Vacheron Constantin horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Vacheron Constantin has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "vacheron-constantin",
+      "vacheron constantin",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "versace",
+    "slug": "versace",
+    "term": "Versace",
+    "nodeLabel": "VERSACE",
+    "category": "Maison",
+    "kind": "brand",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A distinguished maison representing Versace horological heritage and design.",
+    "history": "Founded as a prominent watchmaking entity, Versace has established a unique identity through distinctive design and technical innovation.",
+    "signatures": [
+      "Signature design",
+      "Brand heritage",
+      "Technical excellence"
+    ],
+    "parentIds": [
+      "men",
+      "women"
+    ],
+    "relatedIds": [
+      "rolex",
+      "omega"
+    ],
+    "keywords": [
+      "versace",
+      "versace-brand",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tourbillon",
+    "slug": "tourbillon",
+    "term": "Tourbillon",
+    "nodeLabel": "TOURBILLON",
+    "category": "Complication",
+    "kind": "complication",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A rotating carriage that carries the escapement and balance, averaging positional errors through continuous motion.",
+    "history": "Conceived for pocket watches around the turn of the nineteenth century, the tourbillon addressed the long periods those watches spent upright. In wristwatches it is as much a demonstration of construction and finishing as a precision strategy.",
+    "signatures": [
+      "Rotating regulating organ",
+      "Open architectural display",
+      "Exacting cage construction"
+    ],
+    "parentIds": [
+      "patek-philippe",
+      "escapement"
+    ],
+    "relatedIds": [
+      "escapement",
+      "balance-wheel",
+      "grand-complication"
+    ],
+    "keywords": [
+      "rotating cage",
+      "regulator",
+      "breguet",
+      "haute horlogerie"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "chronograph",
+    "slug": "chronograph",
+    "term": "Chronograph",
+    "nodeLabel": "CHRONOGRAPH",
+    "category": "Complication",
+    "kind": "complication",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A mechanism that starts, stops, and resets an independently driven seconds display to measure elapsed time.",
+    "history": "Early chronographs served scientific, sporting, and industrial timing. Wristwatch versions evolved from single-pusher layouts to two-pusher, flyback, split-seconds, and high-frequency configurations.",
+    "signatures": [
+      "Elapsed-time counters",
+      "Start-stop-reset controls",
+      "Clutch and reset architecture"
+    ],
+    "parentIds": [
+      "rolex",
+      "omega",
+      "audemars-piguet"
+    ],
+    "relatedIds": [
+      "automatic-movement",
+      "grand-complication",
+      "omega"
+    ],
+    "keywords": [
+      "stopwatch",
+      "elapsed time",
+      "tachymeter",
+      "flyback",
+      "rattrapante"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "perpetual-calendar",
+    "slug": "perpetual-calendar",
+    "term": "Perpetual Calendar",
+    "nodeLabel": "PERPETUAL CAL.",
+    "category": "Complication",
+    "kind": "complication",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A calendar mechanism programmed to distinguish month lengths and leap years without routine date correction.",
+    "history": "The logic was proven in clocks and pocket watches before becoming one of the defining wristwatch complications of the twentieth century. Traditional mechanisms are mechanically encoded for the Gregorian four-year cycle.",
+    "signatures": [
+      "Leap-year indication",
+      "Month-length memory",
+      "Coordinated calendar displays"
+    ],
+    "parentIds": [
+      "patek-philippe",
+      "audemars-piguet",
+      "moonphase"
+    ],
+    "relatedIds": [
+      "moonphase",
+      "grand-complication",
+      "patek-philippe"
+    ],
+    "keywords": [
+      "calendar",
+      "leap year",
+      "date",
+      "month",
+      "quantieme perpetuel"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "minute-repeater",
+    "slug": "minute-repeater",
+    "term": "Minute Repeater",
+    "nodeLabel": "MINUTE REPEATER",
+    "category": "Complication",
+    "kind": "complication",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "An on-demand acoustic complication that strikes the current hours, quarter-hours, and remaining minutes.",
+    "history": "Repeating mechanisms let owners read time in darkness before electric light. Miniaturizing their racks, snails, hammers, and gongs for the wrist made the minute repeater a summit of acoustic watchmaking.",
+    "signatures": [
+      "Activated chiming sequence",
+      "Case-tuned resonance",
+      "Rack-and-snail time reading"
+    ],
+    "parentIds": [
+      "patek-philippe",
+      "grand-complication"
+    ],
+    "relatedIds": [
+      "grand-complication",
+      "patek-philippe",
+      "tourbillon"
+    ],
+    "keywords": [
+      "chime",
+      "gongs",
+      "sonnerie",
+      "acoustic",
+      "repeater"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "moonphase",
+    "slug": "moonphase",
+    "term": "Moonphase",
+    "nodeLabel": "MOONPHASE",
+    "category": "Complication",
+    "kind": "complication",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A poetic astronomical display that tracks the visible progression of the lunar cycle through a dial aperture or rotating indication.",
+    "history": "Lunar displays descend from astronomical clocks and later appeared in portable watches. Modern versions range from familiar 59-tooth mechanisms to high-accuracy systems requiring correction only after many generations.",
+    "signatures": [
+      "Lunar disc or sphere",
+      "29.5-day visual cycle",
+      "Astronomical dial character"
+    ],
+    "parentIds": [
+      "cartier",
+      "perpetual-calendar",
+      "omega"
+    ],
+    "relatedIds": [
+      "perpetual-calendar",
+      "power-reserve",
+      "cartier"
+    ],
+    "keywords": [
+      "moon phase",
+      "lunar",
+      "astronomy",
+      "celestial"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "escapement",
+    "slug": "escapement",
+    "term": "Escapement",
+    "nodeLabel": "ESCAPEMENT",
+    "category": "Mechanics",
+    "kind": "mechanics",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "The regulating interface that releases the gear train in measured steps while returning energy to the oscillator.",
+    "history": "Successive escapement designs made portable timekeeping more durable and precise. The Swiss lever became dominant, while detent, co-axial, and experimental direct-impulse systems pursue different balances of efficiency and stability.",
+    "signatures": [
+      "Controlled energy release",
+      "Impulse to the oscillator",
+      "Audible mechanical cadence"
+    ],
+    "parentIds": [
+      "omega",
+      "tourbillon"
+    ],
+    "relatedIds": [
+      "balance-wheel",
+      "tourbillon",
+      "automatic-movement"
+    ],
+    "keywords": [
+      "lever",
+      "anchor",
+      "co axial",
+      "impulse",
+      "regulation"
+    ],
+    "graphNode": false
+  },
+  {
+    "id": "balance-wheel",
+    "slug": "balance-wheel",
+    "term": "Balance Wheel",
+    "nodeLabel": "BALANCE WHEEL",
+    "category": "Mechanics",
+    "kind": "mechanics",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "The oscillating wheel that, together with its hairspring, forms the timekeeping heart of a mechanical watch.",
+    "history": "The balance replaced earlier foliot regulators in portable timekeepers. Temperature compensation, improved alloys, free-sprung adjustment, and silicon components have steadily refined its consistency.",
+    "signatures": [
+      "Rhythmic oscillation",
+      "Hairspring restoring force",
+      "Rate-adjustment system"
+    ],
+    "parentIds": [
+      "escapement"
+    ],
+    "relatedIds": [
+      "escapement",
+      "tourbillon",
+      "power-reserve"
+    ],
+    "keywords": [
+      "oscillator",
+      "hairspring",
+      "frequency",
+      "regulator",
+      "amplitude"
+    ],
+    "graphNode": false
+  },
+  {
+    "id": "automatic-movement",
+    "slug": "automatic-movement",
+    "term": "Automatic Movement",
+    "nodeLabel": "AUTOMATIC",
+    "category": "Mechanics",
+    "kind": "mechanics",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A mechanical calibre whose mainspring is wound by a weighted rotor responding to the wearer's motion.",
+    "history": "Self-winding wristwatches matured in the early twentieth century as compact rotor and bumper systems became practical. Bidirectional winding and efficient bearing systems later made automatic construction an everyday standard.",
+    "signatures": [
+      "Oscillating winding mass",
+      "Mainspring energy storage",
+      "Wear-driven winding"
+    ],
+    "parentIds": [
+      "rolex",
+      "omega"
+    ],
+    "relatedIds": [
+      "power-reserve",
+      "escapement",
+      "rolex"
+    ],
+    "keywords": [
+      "self winding",
+      "rotor",
+      "calibre",
+      "movement",
+      "mainspring"
+    ],
+    "graphNode": false
+  },
+  {
+    "id": "power-reserve",
+    "slug": "power-reserve",
+    "term": "Power Reserve",
+    "nodeLabel": "POWER RESERVE",
+    "category": "Mechanics",
+    "kind": "mechanics",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "The duration a fully wound mechanical watch can continue running, or the display that indicates its remaining stored energy.",
+    "history": "Long-running marine chronometers made stored-energy awareness operationally important. Wristwatch indicators later turned the same information into a useful and visually expressive complication.",
+    "signatures": [
+      "Remaining-energy indication",
+      "Mainspring capacity",
+      "Winding-state feedback"
+    ],
+    "parentIds": [
+      "automatic-movement"
+    ],
+    "relatedIds": [
+      "automatic-movement",
+      "balance-wheel",
+      "moonphase"
+    ],
+    "keywords": [
+      "reserve de marche",
+      "mainspring",
+      "hours",
+      "winding"
+    ],
+    "graphNode": false
+  },
+  {
+    "id": "skeleton-watch",
+    "slug": "skeleton-watch",
+    "term": "Skeleton Watch",
+    "nodeLabel": "SKELETON",
+    "category": "Mechanics",
+    "kind": "mechanics",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A watch whose dial and movement bridges are opened to reveal the structure and motion of the calibre.",
+    "history": "Openworked watchmaking developed from decorative piercing and engraving that exposed a mechanism without sacrificing its stability. Contemporary skeleton designs may begin as transformed calibres or be engineered around transparency from the outset.",
+    "signatures": [
+      "Openworked bridges",
+      "Visible gear train",
+      "Structural finishing"
+    ],
+    "parentIds": [
+      "audemars-piguet",
+      "cartier"
+    ],
+    "relatedIds": [
+      "audemars-piguet",
+      "tourbillon",
+      "balance-wheel"
+    ],
+    "keywords": [
+      "openworked",
+      "open work",
+      "transparent movement",
+      "ajourage"
+    ],
+    "graphNode": false
+  },
+  {
+    "id": "grand-complication",
+    "slug": "grand-complication",
+    "term": "Grand Complication",
+    "nodeLabel": "GRAND COMPLICATION",
+    "category": "Complication",
+    "kind": "complication",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A watch that integrates several demanding complication families—typically calendar, timing, and chiming functions—within one coherent movement.",
+    "history": "The tradition began with highly commissioned pocket watches that condensed astronomical, acoustic, and chronographic mechanisms. Wristwatch grand complications require extraordinary packaging, energy management, and assembly discipline.",
+    "signatures": [
+      "Multiple complication families",
+      "Dense mechanical integration",
+      "Collector-led construction"
+    ],
+    "parentIds": [
+      "patek-philippe",
+      "perpetual-calendar"
+    ],
+    "relatedIds": [
+      "perpetual-calendar",
+      "minute-repeater",
+      "chronograph"
+    ],
+    "keywords": [
+      "high complication",
+      "calendar",
+      "chiming",
+      "split seconds"
+    ],
+    "graphNode": false
+  },
+  {
+    "id": "audemars-piguet-watch-2",
+    "slug": "audemars-piguet-watch-2",
+    "term": "Audemars Piguet Watch 2",
+    "nodeLabel": "AUDEMARS PIG",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Audemars Piguet to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "audemars-piguet"
+    ],
+    "relatedIds": [
+      "audemars-piguet"
+    ],
+    "keywords": [
+      "audemars-piguet",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "audemars-royal-oak",
+    "slug": "audemars-royal-oak",
+    "term": "Audemars Royal Oak",
+    "nodeLabel": "ROYAL OAK",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "An Audemars Piguet icon fusing octagonal geometry, exposed hexagon fasteners, and Tapisserie dial with integrated steel architecture.",
+    "history": "The 1972 Royal Oak repositioned steel as a luxury material, establishing a lasting architectural language for sporting haute horlogerie.",
+    "signatures": [
+      "Octagonal bezel",
+      "Tapisserie dial",
+      "Integrated steel"
+    ],
+    "parentIds": [
+      "audemars-piguet"
+    ],
+    "relatedIds": [
+      "hublot",
+      "chronograph"
+    ],
+    "keywords": [
+      "royal oak",
+      "tapisserie",
+      "offshore",
+      "steel"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "armani-exchange-watch-1",
+    "slug": "armani-exchange-watch-1",
+    "term": "Armani Exchange Watch 1",
+    "nodeLabel": "ARMANI EXCHA",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Armani Exchange to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "armani-exchange"
+    ],
+    "relatedIds": [
+      "armani-exchange"
+    ],
+    "keywords": [
+      "armani-exchange",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "armani-exchange-watch-2",
+    "slug": "armani-exchange-watch-2",
+    "term": "Armani Exchange Watch 2",
+    "nodeLabel": "ARMANI EXCHA",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Armani Exchange to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "armani-exchange"
+    ],
+    "relatedIds": [
+      "armani-exchange"
+    ],
+    "keywords": [
+      "armani-exchange",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "bentley-watch-1",
+    "slug": "bentley-watch-1",
+    "term": "Bentley Watch 1",
+    "nodeLabel": "BENTLEY 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Bentley to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "bentley"
+    ],
+    "relatedIds": [
+      "bentley"
+    ],
+    "keywords": [
+      "bentley",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "bentley-watch-2",
+    "slug": "bentley-watch-2",
+    "term": "Bentley Watch 2",
+    "nodeLabel": "BENTLEY 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Bentley to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "bentley"
+    ],
+    "relatedIds": [
+      "bentley"
+    ],
+    "keywords": [
+      "bentley",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "hugo-boss-watch-1",
+    "slug": "hugo-boss-watch-1",
+    "term": "Hugo Boss Watch 1",
+    "nodeLabel": "HUGO BOSS 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Hugo Boss to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "hugo-boss"
+    ],
+    "relatedIds": [
+      "hugo-boss"
+    ],
+    "keywords": [
+      "hugo-boss",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "hugo-boss-watch-2",
+    "slug": "hugo-boss-watch-2",
+    "term": "Hugo Boss Watch 2",
+    "nodeLabel": "HUGO BOSS 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Hugo Boss to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "hugo-boss"
+    ],
+    "relatedIds": [
+      "hugo-boss"
+    ],
+    "keywords": [
+      "hugo-boss",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "burberry-watch-1",
+    "slug": "burberry-watch-1",
+    "term": "Burberry Watch 1",
+    "nodeLabel": "BURBERRY 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Burberry to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "burberry"
+    ],
+    "relatedIds": [
+      "burberry"
+    ],
+    "keywords": [
+      "burberry",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "burberry-watch-2",
+    "slug": "burberry-watch-2",
+    "term": "Burberry Watch 2",
+    "nodeLabel": "BURBERRY 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Burberry to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "burberry"
+    ],
+    "relatedIds": [
+      "burberry"
+    ],
+    "keywords": [
+      "burberry",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "cartier-ballon-bleu",
+    "slug": "cartier-ballon-bleu",
+    "term": "Cartier Ballon Bleu",
+    "nodeLabel": "BALLON BLEU",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Cartier pebble-shaped icon with a distinctive cabochon crown guard and Roman numeral dial.",
+    "history": "Introduced in 2007, the Ballon Bleu reimagined Cartier's round watch with a flowing pebble case and integrated crown guard.",
+    "signatures": [
+      "Pebble case",
+      "Crown guard",
+      "Roman numerals"
+    ],
+    "parentIds": [
+      "cartier"
+    ],
+    "relatedIds": [
+      "moonphase",
+      "cartier-tank"
+    ],
+    "keywords": [
+      "ballon",
+      "pebble",
+      "crown guard",
+      "roman"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "cartier-panthere",
+    "slug": "cartier-panthere",
+    "term": "Cartier Panthère",
+    "nodeLabel": "PANTHÈRE",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Cartier jewelry-watch icon with a supple bracelet and feline-inspired compact case.",
+    "history": "Launched in the 1980s, the Panthère merged Cartier's jewelry mastery with watchmaking, creating a flexible bracelet watch with distinctive link design.",
+    "signatures": [
+      "Supple bracelet",
+      "Compact case",
+      "Jewelry links"
+    ],
+    "parentIds": [
+      "cartier"
+    ],
+    "relatedIds": [
+      "skeleton-watch",
+      "cartier-tank"
+    ],
+    "keywords": [
+      "panthere",
+      "bracelet",
+      "jewelry",
+      "feline"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "cartier-santos",
+    "slug": "cartier-santos",
+    "term": "Cartier Santos",
+    "nodeLabel": "SANTOS",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Cartier aviator icon with exposed screws, square case, and Roman numerals, born from early flight.",
+    "history": "Created in 1904 for aviator Alberto Santos-Dumont, the Santos pioneered the modern wristwatch with its distinctive square silhouette and visible screws.",
+    "signatures": [
+      "Square case",
+      "Exposed screws",
+      "Roman numerals"
+    ],
+    "parentIds": [
+      "cartier"
+    ],
+    "relatedIds": [
+      "skeleton-watch",
+      "cartier-tank"
+    ],
+    "keywords": [
+      "santos",
+      "aviator",
+      "square",
+      "screws"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "cartier-tank",
+    "slug": "cartier-tank",
+    "term": "Cartier Tank",
+    "nodeLabel": "TANK",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Cartier rectangular icon emphasizing pure geometry, Roman numerals, and cabochon detail as wearable design.",
+    "history": "Conceived in 1917, the Tank distilled watchmaking to essential rectangular proportion and became a lasting design reference.",
+    "signatures": [
+      "Rectangular case",
+      "Roman numerals",
+      "Cabochon crown"
+    ],
+    "parentIds": [
+      "cartier"
+    ],
+    "relatedIds": [
+      "skeleton-watch",
+      "armani-exchange"
+    ],
+    "keywords": [
+      "tank",
+      "rectangular",
+      "roman",
+      "cabochon"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "citizen-watch-1",
+    "slug": "citizen-watch-1",
+    "term": "Citizen Watch 1",
+    "nodeLabel": "CITIZEN 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Citizen to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "citizen"
+    ],
+    "relatedIds": [
+      "citizen"
+    ],
+    "keywords": [
+      "citizen",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "citizen-watch-2",
+    "slug": "citizen-watch-2",
+    "term": "Citizen Watch 2",
+    "nodeLabel": "CITIZEN 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Citizen to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "citizen"
+    ],
+    "relatedIds": [
+      "citizen"
+    ],
+    "keywords": [
+      "citizen",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "calvin-klein-watch-1",
+    "slug": "calvin-klein-watch-1",
+    "term": "Calvin Klein Watch 1",
+    "nodeLabel": "CALVIN KLEIN",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Calvin Klein to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "calvin-klein"
+    ],
+    "relatedIds": [
+      "calvin-klein"
+    ],
+    "keywords": [
+      "calvin-klein",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "calvin-klein-watch-2",
+    "slug": "calvin-klein-watch-2",
+    "term": "Calvin Klein Watch 2",
+    "nodeLabel": "CALVIN KLEIN",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Calvin Klein to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "calvin-klein"
+    ],
+    "relatedIds": [
+      "calvin-klein"
+    ],
+    "keywords": [
+      "calvin-klein",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "diesel-watch-1",
+    "slug": "diesel-watch-1",
+    "term": "Diesel Watch 1",
+    "nodeLabel": "DIESEL 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Diesel to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "diesel"
+    ],
+    "relatedIds": [
+      "diesel"
+    ],
+    "keywords": [
+      "diesel",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "diesel-watch-2",
+    "slug": "diesel-watch-2",
+    "term": "Diesel Watch 2",
+    "nodeLabel": "DIESEL 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Diesel to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "diesel"
+    ],
+    "relatedIds": [
+      "diesel"
+    ],
+    "keywords": [
+      "diesel",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "emporio-armani-watch-1",
+    "slug": "emporio-armani-watch-1",
+    "term": "Emporio Armani Watch 1",
+    "nodeLabel": "EMPORIO ARMA",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Emporio Armani to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "emporio-armani"
+    ],
+    "relatedIds": [
+      "emporio-armani"
+    ],
+    "keywords": [
+      "emporio-armani",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "emporio-armani-watch-2",
+    "slug": "emporio-armani-watch-2",
+    "term": "Emporio Armani Watch 2",
+    "nodeLabel": "EMPORIO ARMA",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Emporio Armani to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "emporio-armani"
+    ],
+    "relatedIds": [
+      "emporio-armani"
+    ],
+    "keywords": [
+      "emporio-armani",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "edifice-watch-1",
+    "slug": "edifice-watch-1",
+    "term": "Edifice Watch 1",
+    "nodeLabel": "EDIFICE 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Edifice to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "edifice"
+    ],
+    "relatedIds": [
+      "edifice"
+    ],
+    "keywords": [
+      "edifice",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "edifice-watch-2",
+    "slug": "edifice-watch-2",
+    "term": "Edifice Watch 2",
+    "nodeLabel": "EDIFICE 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Edifice to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "edifice"
+    ],
+    "relatedIds": [
+      "edifice"
+    ],
+    "keywords": [
+      "edifice",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "fossil-watch-1",
+    "slug": "fossil-watch-1",
+    "term": "Fossil Watch 1",
+    "nodeLabel": "FOSSIL 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Fossil to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "fossil"
+    ],
+    "relatedIds": [
+      "fossil"
+    ],
+    "keywords": [
+      "fossil",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "fossil-watch-2",
+    "slug": "fossil-watch-2",
+    "term": "Fossil Watch 2",
+    "nodeLabel": "FOSSIL 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Fossil to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "fossil"
+    ],
+    "relatedIds": [
+      "fossil"
+    ],
+    "keywords": [
+      "fossil",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "franck-muller-watch-1",
+    "slug": "franck-muller-watch-1",
+    "term": "Franck Muller Watch 1",
+    "nodeLabel": "FRANCK MULLE",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Franck Muller to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "franck-muller"
+    ],
+    "relatedIds": [
+      "franck-muller"
+    ],
+    "keywords": [
+      "franck-muller",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "franck-muller-watch-2",
+    "slug": "franck-muller-watch-2",
+    "term": "Franck Muller Watch 2",
+    "nodeLabel": "FRANCK MULLE",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Franck Muller to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "franck-muller"
+    ],
+    "relatedIds": [
+      "franck-muller"
+    ],
+    "keywords": [
+      "franck-muller",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "g-shock-watch-1",
+    "slug": "g-shock-watch-1",
+    "term": "G-Shock Watch 1",
+    "nodeLabel": "G-SHOCK 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for G-Shock to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "g-shock"
+    ],
+    "relatedIds": [
+      "g-shock"
+    ],
+    "keywords": [
+      "g-shock",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "g-shock-watch-2",
+    "slug": "g-shock-watch-2",
+    "term": "G-Shock Watch 2",
+    "nodeLabel": "G-SHOCK 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for G-Shock to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "g-shock"
+    ],
+    "relatedIds": [
+      "g-shock"
+    ],
+    "keywords": [
+      "g-shock",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "gucci-watch-1",
+    "slug": "gucci-watch-1",
+    "term": "Gucci Watch 1",
+    "nodeLabel": "GUCCI 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Gucci to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "gucci"
+    ],
+    "relatedIds": [
+      "gucci"
+    ],
+    "keywords": [
+      "gucci",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "gucci-watch-2",
+    "slug": "gucci-watch-2",
+    "term": "Gucci Watch 2",
+    "nodeLabel": "GUCCI 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Gucci to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "gucci"
+    ],
+    "relatedIds": [
+      "gucci"
+    ],
+    "keywords": [
+      "gucci",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "guess-watch-1",
+    "slug": "guess-watch-1",
+    "term": "Guess Watch 1",
+    "nodeLabel": "GUESS 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Guess to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "guess"
+    ],
+    "relatedIds": [
+      "guess"
+    ],
+    "keywords": [
+      "guess",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "guess-watch-2",
+    "slug": "guess-watch-2",
+    "term": "Guess Watch 2",
+    "nodeLabel": "GUESS 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Guess to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "guess"
+    ],
+    "relatedIds": [
+      "guess"
+    ],
+    "keywords": [
+      "guess",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "hublot-watch-1",
+    "slug": "hublot-watch-1",
+    "term": "Hublot Watch 1",
+    "nodeLabel": "HUBLOT 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Hublot to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "hublot"
+    ],
+    "relatedIds": [
+      "hublot"
+    ],
+    "keywords": [
+      "hublot",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "hublot-watch-2",
+    "slug": "hublot-watch-2",
+    "term": "Hublot Watch 2",
+    "nodeLabel": "HUBLOT 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Hublot to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "hublot"
+    ],
+    "relatedIds": [
+      "hublot"
+    ],
+    "keywords": [
+      "hublot",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "jacob-co-watch-1",
+    "slug": "jacob-co-watch-1",
+    "term": "Jacob & Co. Watch 1",
+    "nodeLabel": "JACOB & CO.",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Jacob & Co. to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "jacob-co"
+    ],
+    "relatedIds": [
+      "jacob-co"
+    ],
+    "keywords": [
+      "jacob-co",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "jacob-co-watch-2",
+    "slug": "jacob-co-watch-2",
+    "term": "Jacob & Co. Watch 2",
+    "nodeLabel": "JACOB & CO.",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Jacob & Co. to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "jacob-co"
+    ],
+    "relatedIds": [
+      "jacob-co"
+    ],
+    "keywords": [
+      "jacob-co",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "lacoste-watch-1",
+    "slug": "lacoste-watch-1",
+    "term": "Lacoste Watch 1",
+    "nodeLabel": "LACOSTE 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Lacoste to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "lacoste"
+    ],
+    "relatedIds": [
+      "lacoste"
+    ],
+    "keywords": [
+      "lacoste",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "lacoste-watch-2",
+    "slug": "lacoste-watch-2",
+    "term": "Lacoste Watch 2",
+    "nodeLabel": "LACOSTE 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Lacoste to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "lacoste"
+    ],
+    "relatedIds": [
+      "lacoste"
+    ],
+    "keywords": [
+      "lacoste",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "longines-watch-1",
+    "slug": "longines-watch-1",
+    "term": "Longines Watch 1",
+    "nodeLabel": "LONGINES 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Longines to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "longines"
+    ],
+    "relatedIds": [
+      "longines"
+    ],
+    "keywords": [
+      "longines",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "longines-watch-2",
+    "slug": "longines-watch-2",
+    "term": "Longines Watch 2",
+    "nodeLabel": "LONGINES 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Longines to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "longines"
+    ],
+    "relatedIds": [
+      "longines"
+    ],
+    "keywords": [
+      "longines",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "maserati-watch-1",
+    "slug": "maserati-watch-1",
+    "term": "Maserati Watch 1",
+    "nodeLabel": "MASERATI 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Maserati to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "maserati"
+    ],
+    "relatedIds": [
+      "maserati"
+    ],
+    "keywords": [
+      "maserati",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "maserati-watch-2",
+    "slug": "maserati-watch-2",
+    "term": "Maserati Watch 2",
+    "nodeLabel": "MASERATI 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Maserati to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "maserati"
+    ],
+    "relatedIds": [
+      "maserati"
+    ],
+    "keywords": [
+      "maserati",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "michael-kors-watch-1",
+    "slug": "michael-kors-watch-1",
+    "term": "Michael Kors Watch 1",
+    "nodeLabel": "MICHAEL KORS",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Michael Kors to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "michael-kors"
+    ],
+    "relatedIds": [
+      "michael-kors"
+    ],
+    "keywords": [
+      "michael-kors",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "michael-kors-watch-2",
+    "slug": "michael-kors-watch-2",
+    "term": "Michael Kors Watch 2",
+    "nodeLabel": "MICHAEL KORS",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Michael Kors to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "michael-kors"
+    ],
+    "relatedIds": [
+      "michael-kors"
+    ],
+    "keywords": [
+      "michael-kors",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "movado-watch-1",
+    "slug": "movado-watch-1",
+    "term": "Movado Watch 1",
+    "nodeLabel": "MOVADO 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Movado to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "movado"
+    ],
+    "relatedIds": [
+      "movado"
+    ],
+    "keywords": [
+      "movado",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "movado-watch-2",
+    "slug": "movado-watch-2",
+    "term": "Movado Watch 2",
+    "nodeLabel": "MOVADO 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Movado to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "movado"
+    ],
+    "relatedIds": [
+      "movado"
+    ],
+    "keywords": [
+      "movado",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "omega-speedmaster",
+    "slug": "omega-speedmaster",
+    "term": "Omega Speedmaster",
+    "nodeLabel": "SPEEDMASTER",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "An Omega chronograph built for precision timing, space heritage, and robust co-axial mechanics with tachymeter scale.",
+    "history": "Chosen for space programs in the 1960s, the Speedmaster earned the Moonwatch identity and continues as an instrument-led collection.",
+    "signatures": [
+      "Tachymeter bezel",
+      "Chronograph counters",
+      "Hesalite or sapphire"
+    ],
+    "parentIds": [
+      "omega"
+    ],
+    "relatedIds": [
+      "chronograph",
+      "tag-heuer"
+    ],
+    "keywords": [
+      "speedmaster",
+      "moonwatch",
+      "tachymeter",
+      "co axial"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "omega-watch-2",
+    "slug": "omega-watch-2",
+    "term": "Omega Watch 2",
+    "nodeLabel": "OMEGA 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Omega to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "omega"
+    ],
+    "relatedIds": [
+      "omega"
+    ],
+    "keywords": [
+      "omega",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "orient-watch-1",
+    "slug": "orient-watch-1",
+    "term": "Orient Watch 1",
+    "nodeLabel": "ORIENT 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Orient to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "orient"
+    ],
+    "relatedIds": [
+      "orient"
+    ],
+    "keywords": [
+      "orient",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "orient-watch-2",
+    "slug": "orient-watch-2",
+    "term": "Orient Watch 2",
+    "nodeLabel": "ORIENT 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Orient to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "orient"
+    ],
+    "relatedIds": [
+      "orient"
+    ],
+    "keywords": [
+      "orient",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "patek-calatrava",
+    "slug": "patek-calatrava",
+    "term": "Patek Calatrava",
+    "nodeLabel": "CALATRAVA",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Patek Philippe dress reference celebrated for restrained proportion, hand-finished calibre, and pure time-only clarity.",
+    "history": "The Calatrava lineage from the 1930s codified modern dress watch proportions, influencing generations of slim, precious-metal references.",
+    "signatures": [
+      "Slim precious case",
+      "Hand-finished calibre",
+      "Minimal dial"
+    ],
+    "parentIds": [
+      "patek-philippe"
+    ],
+    "relatedIds": [
+      "tourbillon",
+      "rolex"
+    ],
+    "keywords": [
+      "calatrava",
+      "dress",
+      "hand-finished",
+      "calibre"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "patek-nautilus",
+    "slug": "patek-nautilus",
+    "term": "Patek Nautilus",
+    "nodeLabel": "NAUTILUS",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Patek Philippe luxury sport model distinguished by its porthole-inspired octagonal form and integrated bracelet.",
+    "history": "Designed by Gérald Genta in 1976, the Nautilus translated athletic steel into haute horlogerie codes and remains a defining silhouette.",
+    "signatures": [
+      "Integrated bracelet",
+      "Horizontal embossed dial",
+      "Porthole case"
+    ],
+    "parentIds": [
+      "patek-philippe"
+    ],
+    "relatedIds": [
+      "audemars-piguet",
+      "perpetual-calendar"
+    ],
+    "keywords": [
+      "nautilus",
+      "genta",
+      "steel",
+      "integrated"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "rado-watch-1",
+    "slug": "rado-watch-1",
+    "term": "Rado Watch 1",
+    "nodeLabel": "RADO 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Rado to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "rado"
+    ],
+    "relatedIds": [
+      "rado"
+    ],
+    "keywords": [
+      "rado",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "rado-watch-2",
+    "slug": "rado-watch-2",
+    "term": "Rado Watch 2",
+    "nodeLabel": "RADO 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Rado to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "rado"
+    ],
+    "relatedIds": [
+      "rado"
+    ],
+    "keywords": [
+      "rado",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "richard-mille-watch-1",
+    "slug": "richard-mille-watch-1",
+    "term": "Richard Mille Watch 1",
+    "nodeLabel": "RICHARD MILL",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Richard Mille to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "richard-mille"
+    ],
+    "relatedIds": [
+      "richard-mille"
+    ],
+    "keywords": [
+      "richard-mille",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "richard-mille-watch-2",
+    "slug": "richard-mille-watch-2",
+    "term": "Richard Mille Watch 2",
+    "nodeLabel": "RICHARD MILL",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Richard Mille to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "richard-mille"
+    ],
+    "relatedIds": [
+      "richard-mille"
+    ],
+    "keywords": [
+      "richard-mille",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "rolex-datejust",
+    "slug": "rolex-datejust",
+    "term": "Rolex Datejust",
+    "nodeLabel": "DATEJUST",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Rolex dress archetype defined by the date aperture, Cyclops lens, and versatile Jubilee or Oyster bracelet pairing.",
+    "history": "Debuted in 1945 as the first automatic with a date window, the Datejust became the template for everyday elegance across decades of proportion and material variations.",
+    "signatures": [
+      "Cyclops lens",
+      "Date aperture",
+      "Jubilee bracelet"
+    ],
+    "parentIds": [
+      "rolex"
+    ],
+    "relatedIds": [
+      "cartier",
+      "omega"
+    ],
+    "keywords": [
+      "datejust",
+      "cyclops",
+      "jubilee",
+      "oyster"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "rolex-daytona",
+    "slug": "rolex-daytona",
+    "term": "Rolex Daytona",
+    "nodeLabel": "DAYTONA",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Rolex motor-racing chronograph pairing the Oyster case with an engineered tachymeter and highly legible elapsed-time counters.",
+    "history": "Launched in 1963 for motorsport timing, the Daytona linked Rolex to track precision. Modern versions carry the calibre 4130 and ceramic bezel options.",
+    "signatures": [
+      "Tachymeter bezel",
+      "Three-counter chronograph",
+      "Oyster bracelet"
+    ],
+    "parentIds": [
+      "rolex"
+    ],
+    "relatedIds": [
+      "chronograph",
+      "omega"
+    ],
+    "keywords": [
+      "daytona",
+      "chronograph",
+      "racing",
+      "4130"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "rolex-submariner",
+    "slug": "rolex-submariner",
+    "term": "Rolex Submariner",
+    "nodeLabel": "SUBMARINER",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A Rolex diving instrument built around the Oyster case, unidirectional bezel, and high-contrast dial optimized for underwater legibility.",
+    "history": "Introduced in 1953, the Submariner established the modern diving watch code and has evolved through discreet material and movement refinements while preserving its archetype.",
+    "signatures": [
+      "Oyster case 41mm",
+      "Unidirectional bezel",
+      "Glidelock bracelet"
+    ],
+    "parentIds": [
+      "rolex"
+    ],
+    "relatedIds": [
+      "omega",
+      "armani-exchange"
+    ],
+    "keywords": [
+      "submariner",
+      "diver",
+      "oyster",
+      "cerachrom"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "seiko-watch-1",
+    "slug": "seiko-watch-1",
+    "term": "Seiko Watch 1",
+    "nodeLabel": "SEIKO 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Seiko to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "seiko"
+    ],
+    "relatedIds": [
+      "seiko"
+    ],
+    "keywords": [
+      "seiko",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "seiko-watch-2",
+    "slug": "seiko-watch-2",
+    "term": "Seiko Watch 2",
+    "nodeLabel": "SEIKO 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Seiko to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "seiko"
+    ],
+    "relatedIds": [
+      "seiko"
+    ],
+    "keywords": [
+      "seiko",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "sevenfriday-watch-1",
+    "slug": "sevenfriday-watch-1",
+    "term": "SevenFriday Watch 1",
+    "nodeLabel": "SEVENFRIDAY",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for SevenFriday to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "sevenfriday"
+    ],
+    "relatedIds": [
+      "sevenfriday"
+    ],
+    "keywords": [
+      "sevenfriday",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "sevenfriday-watch-2",
+    "slug": "sevenfriday-watch-2",
+    "term": "SevenFriday Watch 2",
+    "nodeLabel": "SEVENFRIDAY",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for SevenFriday to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "sevenfriday"
+    ],
+    "relatedIds": [
+      "sevenfriday"
+    ],
+    "keywords": [
+      "sevenfriday",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "swarovski-watch-1",
+    "slug": "swarovski-watch-1",
+    "term": "Swarovski Watch 1",
+    "nodeLabel": "SWAROVSKI 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Swarovski to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "swarovski"
+    ],
+    "relatedIds": [
+      "swarovski"
+    ],
+    "keywords": [
+      "swarovski",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "swarovski-watch-2",
+    "slug": "swarovski-watch-2",
+    "term": "Swarovski Watch 2",
+    "nodeLabel": "SWAROVSKI 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Swarovski to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "swarovski"
+    ],
+    "relatedIds": [
+      "swarovski"
+    ],
+    "keywords": [
+      "swarovski",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tag-heuer-watch-1",
+    "slug": "tag-heuer-watch-1",
+    "term": "Tag Heuer Watch 1",
+    "nodeLabel": "TAG HEUER 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Tag Heuer to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "tag-heuer"
+    ],
+    "relatedIds": [
+      "tag-heuer"
+    ],
+    "keywords": [
+      "tag-heuer",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tag-heuer-watch-2",
+    "slug": "tag-heuer-watch-2",
+    "term": "Tag Heuer Watch 2",
+    "nodeLabel": "TAG HEUER 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Tag Heuer to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "tag-heuer"
+    ],
+    "relatedIds": [
+      "tag-heuer"
+    ],
+    "keywords": [
+      "tag-heuer",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tissot-watch-1",
+    "slug": "tissot-watch-1",
+    "term": "Tissot Watch 1",
+    "nodeLabel": "TISSOT 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Tissot to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "tissot"
+    ],
+    "relatedIds": [
+      "tissot"
+    ],
+    "keywords": [
+      "tissot",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tissot-watch-2",
+    "slug": "tissot-watch-2",
+    "term": "Tissot Watch 2",
+    "nodeLabel": "TISSOT 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Tissot to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "tissot"
+    ],
+    "relatedIds": [
+      "tissot"
+    ],
+    "keywords": [
+      "tissot",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tommy-hilfiger-watch-1",
+    "slug": "tommy-hilfiger-watch-1",
+    "term": "Tommy Hilfiger Watch 1",
+    "nodeLabel": "TOMMY HILFIG",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Tommy Hilfiger to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "tommy-hilfiger"
+    ],
+    "relatedIds": [
+      "tommy-hilfiger"
+    ],
+    "keywords": [
+      "tommy-hilfiger",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "tommy-hilfiger-watch-2",
+    "slug": "tommy-hilfiger-watch-2",
+    "term": "Tommy Hilfiger Watch 2",
+    "nodeLabel": "TOMMY HILFIG",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Tommy Hilfiger to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "tommy-hilfiger"
+    ],
+    "relatedIds": [
+      "tommy-hilfiger"
+    ],
+    "keywords": [
+      "tommy-hilfiger",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "vacheron-constantin-watch-1",
+    "slug": "vacheron-constantin-watch-1",
+    "term": "Vacheron Constantin Watch 1",
+    "nodeLabel": "VACHERON CON",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Vacheron Constantin to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "vacheron-constantin"
+    ],
+    "relatedIds": [
+      "vacheron-constantin"
+    ],
+    "keywords": [
+      "vacheron-constantin",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "vacheron-constantin-watch-2",
+    "slug": "vacheron-constantin-watch-2",
+    "term": "Vacheron Constantin Watch 2",
+    "nodeLabel": "VACHERON CON",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Vacheron Constantin to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "vacheron-constantin"
+    ],
+    "relatedIds": [
+      "vacheron-constantin"
+    ],
+    "keywords": [
+      "vacheron-constantin",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "versace-watch-1",
+    "slug": "versace-watch-1",
+    "term": "Versace Watch 1",
+    "nodeLabel": "VERSACE 1",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Versace to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "versace"
+    ],
+    "relatedIds": [
+      "versace"
+    ],
+    "keywords": [
+      "versace",
+      "watch"
+    ],
+    "graphNode": true
+  },
+  {
+    "id": "versace-watch-2",
+    "slug": "versace-watch-2",
+    "term": "Versace Watch 2",
+    "nodeLabel": "VERSACE 2",
+    "category": "Specific Watch",
+    "kind": "specific-watch",
+    "audiences": [
+      "men",
+      "women"
+    ],
+    "definition": "A placeholder timepiece for Versace to ensure graph connections.",
+    "history": "Created as a placeholder for Level 3 hierarchy.",
+    "signatures": [
+      "Placeholder",
+      "Brand DNA",
+      "Graph connectivity"
+    ],
+    "parentIds": [
+      "versace"
+    ],
+    "relatedIds": [
+      "versace"
+    ],
+    "keywords": [
+      "versace",
+      "watch"
+    ],
+    "graphNode": true
+  }
+]

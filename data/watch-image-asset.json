@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 2,
+  "contractStatus": "ready",
+  "master": {
+    "sourceFile": "source/assets/elite-watch-master.png",
+    "publiclyServed": false,
+    "mediaType": "image/png",
+    "magicSignatureHex": "89504e470d0a1a0a",
+    "sha256": "7480bd94014cf1c5219f9abdcd0206b6848e2d353ede4e276d6e9a1001f8c66b",
+    "byteLength": 9381741,
+    "intrinsicWidth": 2760,
+    "intrinsicHeight": 1504,
+    "decodedPixelCount": 4151040,
+    "decodedRgbaByteLength": 16604160,
+    "aspectRatio": {
+      "width": 345,
+      "height": 188
+    },
+    "bitDepth": 8,
+    "colorType": "rgba",
+    "interlaced": false,
+    "colorProfile": {
+      "embeddedIcc": false,
+      "srgbChunk": false,
+      "gammaChunk": false,
+      "chromaticityChunk": false,
+      "interpretation": "untagged-rgb"
+    },
+    "alpha": {
+      "channelPresent": true,
+      "minimum": 255,
+      "maximum": 255,
+      "nonOpaquePixelCount": 0
+    },
+    "decodeValidation": {
+      "pngChunkCrc": "passed",
+      "zlibAndScanlines": "passed",
+      "nativeDecoder": "passed"
+    },
+    "visualInspection": {
+      "status": "passed",
+      "inspectedSha256": "7480bd94014cf1c5219f9abdcd0206b6848e2d353ede4e276d6e9a1001f8c66b",
+      "watchOnly": true,
+      "prohibitedContentAbsent": [
+        "header",
+        "search",
+        "men-women-controls",
+        "graph-nodes-or-labels",
+        "borders",
+        "watermark",
+        "collage",
+        "reference-panels"
+      ]
+    }
+  },
+  "presentation": {
+    "focalPoints": {
+      "expanded": {
+        "xPercent": 50,
+        "yPercent": 50
+      },
+      "compact": {
+        "xPercent": 50,
+        "yPercent": 50
+      }
+    },
+    "layerCompatibility": {
+      "immutableMasterSha256": "7480bd94014cf1c5219f9abdcd0206b6848e2d353ede4e276d6e9a1001f8c66b",
+      "segmentationApplied": false,
+      "derivativesArePresentationOnly": true,
+      "futureLayerManifestsMustReferenceMasterSha256": true
+    }
+  },
+  "derivativePolicy": {
+    "status": "ready",
+    "publicDirectory": "public/assets/watch",
+    "filenameTemplate": "elite-watch-{width}.{extension}",
+    "sizes": "100vw",
+    "formats": [
+      {
+        "mediaType": "image/avif",
+        "extension": "avif",
+        "role": "primary",
+        "quality": 72,
+        "effort": 6,
+        "chromaSubsampling": "4:4:4",
+        "maxTransferBytesPerCandidate": 1048576
+      },
+      {
+        "mediaType": "image/webp",
+        "extension": "webp",
+        "role": "fallback",
+        "quality": 86,
+        "effort": 6,
+        "smartSubsample": true,
+        "maxTransferBytesPerCandidate": 1572864
+      }
+    ],
+    "plannedCandidates": [
+      {
+        "width": 690,
+        "height": 376
+      },
+      {
+        "width": 1035,
+        "height": 564
+      },
+      {
+        "width": 1380,
+        "height": 752
+      },
+      {
+        "width": 2070,
+        "height": 1128
+      },
+      {
+        "width": 2760,
+        "height": 1504
+      }
+    ],
+    "budgets": {
+      "maxBrowserSelectedTransferBytes": 1572864,
+      "maxBrowserSelectedDecodedPixels": 4151040,
+      "maxBrowserSelectedDecodedRgbaBytes": 16604160,
+      "maxAggregateDerivativeBytes": 12582912
+    },
+    "derivatives": [
+      {
+        "publicPath": "/assets/watch/elite-watch-690.avif",
+        "file": "public/assets/watch/elite-watch-690.avif",
+        "mediaType": "image/avif",
+        "sha256": "09385f38159761efc864801ecc7ef6371427279c56af1a9602b7dbd2b3316c10",
+        "byteLength": 42781,
+        "intrinsicWidth": 690,
+        "intrinsicHeight": 376,
+        "decodedPixelCount": 259440,
+        "decodedRgbaByteLength": 1037760,
+        "encoder": {
+          "channels": 3,
+          "chromaSubsampling": "4:4:4",
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 72
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-1035.avif",
+        "file": "public/assets/watch/elite-watch-1035.avif",
+        "mediaType": "image/avif",
+        "sha256": "68a5f48a7c7d9cf99e1ed7335581c9961d98aa1a2a0305052c317cf5d7aaf00c",
+        "byteLength": 74103,
+        "intrinsicWidth": 1035,
+        "intrinsicHeight": 564,
+        "decodedPixelCount": 583740,
+        "decodedRgbaByteLength": 2334960,
+        "encoder": {
+          "channels": 3,
+          "chromaSubsampling": "4:4:4",
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 72
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-1380.avif",
+        "file": "public/assets/watch/elite-watch-1380.avif",
+        "mediaType": "image/avif",
+        "sha256": "d79051a7dcf3b1c9fc46b6f1e9c7fdfc8bd5b521b7fee31e71d0eaee7c611826",
+        "byteLength": 107116,
+        "intrinsicWidth": 1380,
+        "intrinsicHeight": 752,
+        "decodedPixelCount": 1037760,
+        "decodedRgbaByteLength": 4151040,
+        "encoder": {
+          "channels": 3,
+          "chromaSubsampling": "4:4:4",
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 72
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-2070.avif",
+        "file": "public/assets/watch/elite-watch-2070.avif",
+        "mediaType": "image/avif",
+        "sha256": "2e65b63e8da875afea6470584cf02e5460c56521f4d0225e62f84170f87c62ca",
+        "byteLength": 185128,
+        "intrinsicWidth": 2070,
+        "intrinsicHeight": 1128,
+        "decodedPixelCount": 2334960,
+        "decodedRgbaByteLength": 9339840,
+        "encoder": {
+          "channels": 3,
+          "chromaSubsampling": "4:4:4",
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 72
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-2760.avif",
+        "file": "public/assets/watch/elite-watch-2760.avif",
+        "mediaType": "image/avif",
+        "sha256": "63bd6548338fd8496a5e7fa4d4aa78b9a5de560d15c25b1af39cc90f4865b4d0",
+        "byteLength": 310667,
+        "intrinsicWidth": 2760,
+        "intrinsicHeight": 1504,
+        "decodedPixelCount": 4151040,
+        "decodedRgbaByteLength": 16604160,
+        "encoder": {
+          "channels": 3,
+          "chromaSubsampling": "4:4:4",
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 72
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-690.webp",
+        "file": "public/assets/watch/elite-watch-690.webp",
+        "mediaType": "image/webp",
+        "sha256": "2d0d78a8cce178c1a4f2ca5e32f7ca2158fb32aa13809d87e1192887a26b84c5",
+        "byteLength": 57714,
+        "intrinsicWidth": 690,
+        "intrinsicHeight": 376,
+        "decodedPixelCount": 259440,
+        "decodedRgbaByteLength": 1037760,
+        "encoder": {
+          "channels": 3,
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 86,
+          "smartSubsample": true
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-1035.webp",
+        "file": "public/assets/watch/elite-watch-1035.webp",
+        "mediaType": "image/webp",
+        "sha256": "31b7ed2c833da4f831a798aad3650afa735fa4e5ed954a685de38f404d2ded2c",
+        "byteLength": 102802,
+        "intrinsicWidth": 1035,
+        "intrinsicHeight": 564,
+        "decodedPixelCount": 583740,
+        "decodedRgbaByteLength": 2334960,
+        "encoder": {
+          "channels": 3,
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 86,
+          "smartSubsample": true
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-1380.webp",
+        "file": "public/assets/watch/elite-watch-1380.webp",
+        "mediaType": "image/webp",
+        "sha256": "a9ea33b608279bdb31cca27d1cd6907fab34f4a0ca4257cd89d005d005d60e50",
+        "byteLength": 147768,
+        "intrinsicWidth": 1380,
+        "intrinsicHeight": 752,
+        "decodedPixelCount": 1037760,
+        "decodedRgbaByteLength": 4151040,
+        "encoder": {
+          "channels": 3,
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 86,
+          "smartSubsample": true
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-2070.webp",
+        "file": "public/assets/watch/elite-watch-2070.webp",
+        "mediaType": "image/webp",
+        "sha256": "d3219aed27ee3f64fa6fd9e5f56caf8d8b20fcaf43e07039bb15a7cd90bf4f29",
+        "byteLength": 246804,
+        "intrinsicWidth": 2070,
+        "intrinsicHeight": 1128,
+        "decodedPixelCount": 2334960,
+        "decodedRgbaByteLength": 9339840,
+        "encoder": {
+          "channels": 3,
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 86,
+          "smartSubsample": true
+        }
+      },
+      {
+        "publicPath": "/assets/watch/elite-watch-2760.webp",
+        "file": "public/assets/watch/elite-watch-2760.webp",
+        "mediaType": "image/webp",
+        "sha256": "f045d1c86290c57b3fd244f9d1d02071be04ea679603b9980737e8c52ab38f9e",
+        "byteLength": 402362,
+        "intrinsicWidth": 2760,
+        "intrinsicHeight": 1504,
+        "decodedPixelCount": 4151040,
+        "decodedRgbaByteLength": 16604160,
+        "encoder": {
+          "channels": 3,
+          "colourspace": "srgb",
+          "effort": 6,
+          "quality": 86,
+          "smartSubsample": true
+        }
+      }
+    ]
+  }
+}

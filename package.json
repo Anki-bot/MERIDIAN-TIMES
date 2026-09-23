@@ -1,0 +1,50 @@
+{
+  "name": "elite-watches",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:watch-images": "node scripts/build-watch-image-assets.mjs",
+    "verify:watch-images": "node scripts/verify-watch-image-assets.mjs",
+    "build:watch-layers": "node scripts/build-watch-layer-assets.mjs",
+    "verify:watch-layers": "node scripts/verify-watch-layer-assets.mjs",
+    "predev": "npm run verify:watch-images && npm run verify:watch-layers",
+    "dev": "next dev",
+    "prebuild": "npm run verify:watch-images && npm run verify:watch-layers",
+    "build": "next build",
+    "start": "next start",
+    "pretest": "npm run verify:watch-images && npm run verify:watch-layers",
+    "test": "vitest run",
+    "smoke:atlas": "node scripts/atlas-visibility-smoke.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint . --max-warnings=0",
+    "check": "npm run test && npm run typecheck && npm run lint && npm run build"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.8",
+    "@react-three/fiber": "9.7.0",
+    "framer-motion": "13.1.1",
+    "next": "16.3.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "three": "0.185.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@testing-library/jest-dom": "7.0.1",
+    "@testing-library/react": "16.3.3",
+    "@testing-library/user-event": "14.6.6",
+    "@types/node": "26.4.0",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.5",
+    "@types/three": "0.185.4",
+    "eslint": "9.39.3",
+    "eslint-config-next": "16.3.3",
+    "fast-check": "4.9.0",
+    "jsdom": "30.0.1",
+    "postcss": "8.5.26",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3",
+    "vitest": "4.1.11"
+  }
+}

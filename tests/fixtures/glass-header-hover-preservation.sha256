@@ -1,0 +1,50 @@
+1efcbbc1a5b9c2b9bdde1889cd0a05e2285773cfadafd4accaae01248f80525f  .kiro/specs/ai-coding-dictionary-inspired-site/.config.kiro
+9326a97b8b55fd1707ad7f80a69654ba4261720c3c757af750160ff38655804b  .kiro/specs/ai-coding-dictionary-inspired-site/design.md
+5f441a6980072082d8246adeed90e167c0b189b29612fd70bfd60e60140de0d1  .kiro/specs/ai-coding-dictionary-inspired-site/requirements.md
+c34dfbd3cd9f76674dca137b83e1698dc6ca76b3cfa851dea6bfed10c268c325  .kiro/specs/ai-coding-dictionary-inspired-site/tasks.md
+8a1d57e8a888a17dd2609932d8c6977e24d2a28903e88155c9c66325e435dd6a  .kiro/specs/ai-coding-dictionary-inspired-site/tasks.meta.json
+a6e58061603563ad00c85041bf981235866cb2004769d4f85e416a9852de6c71  .kiro/specs/animated-watch-image-glass-header/.config.kiro
+a314fc889ac332a1a50178f434f42a65e7dbb437866ac2d98e2342554ba69e80  .kiro/specs/animated-watch-image-glass-header/design.md
+57f628aab9b1822d8d7f128930dd5df611b2235c973d69bbea4dc332f5b20cb1  .kiro/specs/animated-watch-image-glass-header/requirements.md
+c3f81c3bce9af3a58a06b23463e2acfce07df6eca33d6ace6e3f81e0ad330905  .kiro/specs/animated-watch-image-glass-header/tasks.md
+0c349f17b5f4a188c76f15bf82de6d471f2d5a9b8c4fce6bbe5fa49d594c221d  .kiro/specs/animated-watch-image-glass-header/tasks.meta.json
+cfd51a4d504b867afef0d0bdd70dece50b3b2438d7a69edaf48e0a34a1e72a8d  app/globals.css#.static-balance
+bd626db28ed107371850fe543f0a4042369dc6c0a6a9d052817f504acb627eb1  app/globals.css#.static-bridge
+34e42a623088d0e1651ba49e007351de2d5bdbc6cb85bc0d60b361ffd59d5549  app/globals.css#.static-bridge--one
+74339b4e4146c0f28b3856f85ab7b965a910fed1f5129031f25905347ea9397d  app/globals.css#.static-bridge--two
+8b5556743f26e10fe1fdba7170cc0bcbf6b7041a8ecb3917baae14603efd0b34  app/globals.css#.static-case
+d21b2095868f910655d52cb9e99b249ade9f520d19c67e27c4c8a77b5646fd7a  app/globals.css#.static-gear, .static-balance
+a25f580260d3e51bef8b766959bea2e52d4f4e7a6dc95bdcd695a2db660befc7  app/globals.css#.static-gear--four
+3b93809a2f22535ef1da6157332f97d7f718401e73eb8c504d8bd89d5d39c2a0  app/globals.css#.static-gear--one
+0f21d6525c3f9e7f2621bc382e299f26f0e0cab65bf01047917b8c703dd5e257  app/globals.css#.static-gear--three
+a79e9f3fda09996ac43f686804e0b4fa57fc297ab9265b79aea728b3e6b23c85  app/globals.css#.static-gear--two
+f0354bd0c9598da0831da3eec6845ebe33af2ac86879b750ad2e36e80dda004c  app/globals.css#.static-gear::before, .static-balance::before
+8c32319d22ff9d2c40c60333daf814e4b3f68428d1de00c0738d18505bdd8c22  app/globals.css#.static-jewel
+3ce0017e62dbb938d30b407779b8fe5f3dae1d9dacb7761065637525e9cf70f2  app/globals.css#.static-jewel--one
+c19f58771c2aa53fea1aebf8ae2f7e706c90f2ef8c75cb26dab3b5e68969beb6  app/globals.css#.static-jewel--three
+3805ac0d60079728e855d722a10cad4e5a6f9031f7fe83571b3560b81e4e2068  app/globals.css#.static-jewel--two
+4e52896214e47a6d1842ad49d75f12bd03dab187965f1de5ab804988e1718715  app/globals.css#.watch-canvas-shell
+812c7efa2a0454f89b8aec694de714dfee52cf57c42808d52de0d2bc89accad5  app/globals.css#.watch-canvas-shell canvas
+474f26fdf836f1ecd46853d52104cb30777851a66d367eb49b546a130e192cda  app/globals.css#.watch-canvas-shell.is-softened
+27c3666fa571f7544ddf52ddcab4724aea3c595d8b546d1c3f5953b1c2932f1b  app/globals.css#.watch-canvas-shell::after
+2480b0cd0e5c75e2b4113551e5263e828b4ebce23576f95624b093dce0c2d0ad  app/globals.css#.watch-canvas-shell::before
+b7a7c55b1d06f7827a238820103e46b41586150282e6a5b8f1af752f523aca0b  app/globals.css#.watch-canvas-shell::before, .watch-canvas-shell::after
+45d72fcf358c664f0869e4cf345bf0cd2fb17558eb28a01b3b8c1359506b9f6f  app/globals.css#.watch-static-fallback
+a76248af332c52e825017ab57199c9b5717c57a60dd9d18096aa117b6fd14718  app/globals.css#.watch-static-fallback.is-softened
+b5a47fcb21b5229708177227297ffb324b78fb2725534ea36c9d84f37212c54e  app/globals.css#@media (max-width: 700px) > .watch-canvas-shell
+2af93761eed455ba7a9f8d1b2f931b03a09487c62b82069e3d4f4d18fb2fefb0  app/globals.css#@media (max-width: 700px) > .watch-static-fallback
+fef0c73a4e06318a2f3f84763e456a44720c26d6a198b5cdf05ca2241835eb5c  components/canvas/WatchMovementCanvas.tsx
+8ade853f5bdccb9b60091b724e6366776093ca4d1a71d4b79d7bb2a026ed4c6c  data/watch-image-asset.json
+7e7d2505d0935b2c3a948da2b730ef366a05996d6eac58e05aa37a6c6842c5ad  package.json#dependencies
+3a7917869ae2f40a062971be4d01f74c9b9a6e3e1c693d188d3f61aa50f4a261  package.json#devDependencies
+68a5f48a7c7d9cf99e1ed7335581c9961d98aa1a2a0305052c317cf5d7aaf00c  public/assets/watch/elite-watch-1035.avif
+31b7ed2c833da4f831a798aad3650afa735fa4e5ed954a685de38f404d2ded2c  public/assets/watch/elite-watch-1035.webp
+d79051a7dcf3b1c9fc46b6f1e9c7fdfc8bd5b521b7fee31e71d0eaee7c611826  public/assets/watch/elite-watch-1380.avif
+a9ea33b608279bdb31cca27d1cd6907fab34f4a0ca4257cd89d005d005d60e50  public/assets/watch/elite-watch-1380.webp
+2e65b63e8da875afea6470584cf02e5460c56521f4d0225e62f84170f87c62ca  public/assets/watch/elite-watch-2070.avif
+d3219aed27ee3f64fa6fd9e5f56caf8d8b20fcaf43e07039bb15a7cd90bf4f29  public/assets/watch/elite-watch-2070.webp
+63bd6548338fd8496a5e7fa4d4aa78b9a5de560d15c25b1af39cc90f4865b4d0  public/assets/watch/elite-watch-2760.avif
+f045d1c86290c57b3fd244f9d1d02071be04ea679603b9980737e8c52ab38f9e  public/assets/watch/elite-watch-2760.webp
+09385f38159761efc864801ecc7ef6371427279c56af1a9602b7dbd2b3316c10  public/assets/watch/elite-watch-690.avif
+2d0d78a8cce178c1a4f2ca5e32f7ca2158fb32aa13809d87e1192887a26b84c5  public/assets/watch/elite-watch-690.webp
+7480bd94014cf1c5219f9abdcd0206b6848e2d353ede4e276d6e9a1001f8c66b  source/assets/elite-watch-master.png

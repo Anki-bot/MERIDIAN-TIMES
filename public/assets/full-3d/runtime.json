@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "packageId": "full-3d-watch-package",
+  "releaseId": "full-3d-watch-release-v1",
+  "canonicalMasterSha256": "7480bd94014cf1c5219f9abdcd0206b6848e2d353ede4e276d6e9a1001f8c66b",
+  "phase": "full-3d",
+  "geometry": "/assets/full-3d/geometry.json"
+}

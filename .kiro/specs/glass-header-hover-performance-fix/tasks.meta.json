@@ -1,0 +1,173 @@
+{
+  "pbtResults": {
+    "1. Write and run bug-condition exploration tests against the unfixed code": {
+      "status": "passed",
+      "lastRunTimestamp": 1788002419462
+    },
+    "2. Write and run observation-first preservation property tests on the unfixed code": {
+      "status": "passed",
+      "lastRunTimestamp": 1788002424152
+    },
+    "3.3 Re-run the same bug-condition exploration tests and verify expected behavior": {
+      "status": "passed",
+      "lastRunTimestamp": 1788002502346
+    },
+    "3.4 Re-run the same preservation tests and verify no deterministic regressions": {
+      "status": "passed",
+      "lastRunTimestamp": 1788002574443
+    }
+  },
+  "executionHistory": {
+    "1. Write and run bug-condition exploration tests against the unfixed code": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309112
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003323121
+      }
+    ],
+    "2. Write and run observation-first preservation property tests on the unfixed code": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309144
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003327657
+      }
+    ],
+    "3.1 Implement the static transparent masthead in `app/globals.css`": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309206
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003331430
+      }
+    ],
+    "3.2 Implement one responsive lightweight graph in `components/ui/NodeGraph.tsx` and `app/globals.css`": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309236
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003335676
+      }
+    ],
+    "3.3 Re-run the same bug-condition exploration tests and verify expected behavior": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309260
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003340310
+      }
+    ],
+    "3.4 Re-run the same preservation tests and verify no deterministic regressions": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309290
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003344693
+      }
+    ],
+    "4.1 Implement structural and in-page performance assertions in `scripts/atlas-visibility-smoke.mjs`": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309326
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003348923
+      }
+    ],
+    "4.2 Run the updated finite browser fix check": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309367
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003353207
+      }
+    ],
+    "5.1 Run the complete finite regression sequence": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309412
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003363903
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003738508
+      }
+    ],
+    "5.2 Apply the mandatory watch-canvas and historical-spec contingency gate": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003309483
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003748284
+      },
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003821651
+      }
+    ],
+    "3. Implement and deterministically verify the scoped fix": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003344804
+      }
+    ],
+    "4. Update and run finite smoke/performance instrumentation": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003353305
+      }
+    ],
+    "5. Complete full finite validation and enforce the watch-canvas contingency gate": [
+      {
+        "executionId": "61d8227b-b7b9-46d8-b8f1-e555192372c5",
+        "chatSessionId": "sess_270732d1-c110-484f-818b-c6e469343115",
+        "timestamp": 1788003821679
+      }
+    ]
+  }
+}

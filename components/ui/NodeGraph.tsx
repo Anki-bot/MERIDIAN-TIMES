@@ -1081,11 +1081,10 @@ export function NodeGraph({
                       : "atlas-node--brand",
                   audienceNode ? `atlas-node--${term.id}` : "",
                   brandNode
-                    ? // FIXED: Valid Tailwind syntax (! prefix) to force interactions and ultra-high z-index
-                      "group !pointer-events-auto !cursor-pointer bg-white opacity-50 border border-gray-300/50 !z-[99999] transition-all duration-300 ease-out hover:!opacity-100 hover:!scale-110 hover:!border-[#D4AF37]/80 hover:!shadow-[0_0_20px_4px_rgba(212,175,55,0.8)]"
+                    ? "group pointer-events-auto! cursor-pointer! bg-white opacity-50 border border-gray-300/50 z-99999! transition-all duration-300 ease-out hover:opacity-100! hover:scale-110! hover:border-[#D4AF37]/80! hover:shadow-[0_0_20px_4px_rgba(212,175,55,0.8)]!"
                     : "",
                   isConnectedPreview
-                    ? "!opacity-100 !scale-110 !border-[#D4AF37] !shadow-[0_0_20px_4px_rgba(212,175,55,0.8)]"
+                    ? "opacity-100! scale-110! border-[#D4AF37]! shadow-[0_0_20px_4px_rgba(212,175,55,0.8)]!"
                     : "",
                   enabled ? "is-enabled" : "is-locked",
                   selected ? "is-selected" : "",

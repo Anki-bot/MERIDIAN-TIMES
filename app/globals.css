@@ -778,6 +778,17 @@ button:not(:disabled),
   opacity: 1 !important;
 }
 
+/* Audience labels must stay readable regardless of hover/preview state. */
+.node-graph[data-network-mode^="preview-"] .atlas-node--audience:not(.is-previewed):not(.is-connected) .atlas-node__label,
+.atlas-node--audience .atlas-node__label,
+.atlas-node--audience.is-previewed .atlas-node__label,
+.atlas-node--audience.is-audience-selected .atlas-node__label,
+.atlas-node--audience.is-connected .atlas-node__label {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: translateY(0) !important;
+}
+
 /* Spotlight fade: dim non-hovered nodes */
 .node-graph[data-network-mode^="preview-"] .atlas-node:not(.is-previewed):not(.is-connected) {
   opacity: 0.15;
